@@ -1,0 +1,8 @@
+Las etapas son:
+- Análisis
+- Diseño
+- Pruebas
+- Codificación
+- Despliegue
+- Mantenimiento
+- Documentación
